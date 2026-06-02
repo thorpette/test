@@ -1,0 +1,17 @@
+{
+  "id": "f3786ce2-3bfd-428d-9fb4-d47ba3d232f0",
+  "name": "LTI",
+  "description": "Quiero una plataforma de onbording de candidatos. Reclutadores suben CVs PDF, el sistema valida y extrae datos con IA, notifica al hiring manager, debe cumplir GDPR",
+  "color": "#7C3AED",
+  "icon": "folder",
+  "tags": [],
+  "diagram_ids": [],
+  "github_repo_url": "https://github.com/thorpette/test",
+  "github_default_branch": "main",
+  "github_sync_path": "bpmn/",
+  "github_last_sync": null,
+  "created_by": "oscar.hidalgo.puertas@gmail.com",
+  "created_at": "2026-06-02T06:52:17.514898+00:00",
+  "updated_at": "2026-06-02T06:52:17.514899+00:00",
+  "exported_at": "2026-06-02T06:53:23.957796+00:00"
+}
