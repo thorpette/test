@@ -1,0 +1,17 @@
+{
+  "id": "3a70eb93-82c2-46db-811c-b0c066ca80da",
+  "name": "lti",
+  "description": "",
+  "color": "#2563EB",
+  "icon": "folder",
+  "tags": [],
+  "diagram_ids": [],
+  "github_repo_url": "https://github.com/thorpette/test",
+  "github_default_branch": "main",
+  "github_sync_path": "test5/",
+  "github_last_sync": null,
+  "created_by": "oscar.hidalgo.puertas@gmail.com",
+  "created_at": "2026-06-02T14:32:02.265574+00:00",
+  "updated_at": "2026-06-02T14:32:02.265576+00:00",
+  "exported_at": "2026-06-02T14:33:29.437632+00:00"
+}
