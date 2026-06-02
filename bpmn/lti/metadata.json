@@ -1,17 +1,24 @@
 {
-  "id": "f3786ce2-3bfd-428d-9fb4-d47ba3d232f0",
+  "id": "5ad98a45-a536-4fd8-a9e0-051f40d26ce4",
   "name": "LTI",
-  "description": "Quiero una plataforma de onbording de candidatos. Reclutadores suben CVs PDF, el sistema valida y extrae datos con IA, notifica al hiring manager, debe cumplir GDPR",
+  "description": "Applicant Tracking System - Sistema de seguimiento de candidatos",
   "color": "#7C3AED",
   "icon": "folder",
-  "tags": [],
-  "diagram_ids": [],
-  "github_repo_url": "https://github.com/thorpette/test",
+  "tags": [
+    "LTI",
+    "ATS",
+    "recruitment"
+  ],
+  "diagram_ids": [
+    "d6d679b3-a1e7-4609-adbe-f4066fc1b38f",
+    "0dac3518-e16d-4baf-a575-45a8e7970433",
+    "8d0ec4cb-05e9-4f0b-af22-afdef63954b5"
+  ],
+  "created_by": "system",
+  "created_at": "2026-06-02 08:50:09.983000",
+  "updated_at": "2026-06-02 08:50:09.983000",
   "github_default_branch": "main",
+  "github_repo_url": "https://github.com/thorpette/test",
   "github_sync_path": "bpmn/",
-  "github_last_sync": "2026-06-02T06:53:26.017101+00:00",
-  "created_by": "oscar.hidalgo.puertas@gmail.com",
-  "created_at": "2026-06-02T06:52:17.514898+00:00",
-  "updated_at": "2026-06-02T06:52:17.514899+00:00",
-  "exported_at": "2026-06-02T06:53:39.752131+00:00"
+  "exported_at": "2026-06-02T09:01:49.547067+00:00"
 }
