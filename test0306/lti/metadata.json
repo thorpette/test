@@ -1,0 +1,19 @@
+{
+  "id": "b5ae9d9c-82f9-496b-9f1d-c2838b64237a",
+  "name": "lti",
+  "description": "test sdd-ia",
+  "color": "#7C3AED",
+  "icon": "folder",
+  "tags": [
+    "test"
+  ],
+  "diagram_ids": [],
+  "github_repo_url": "https://github.com/thorpette/test",
+  "github_default_branch": "main",
+  "github_sync_path": "test0306/",
+  "github_last_sync": null,
+  "created_by": "oscar.hidalgo.puertas@gmail.com",
+  "created_at": "2026-06-03T08:06:34.233742+00:00",
+  "updated_at": "2026-06-03T08:06:34.233743+00:00",
+  "exported_at": "2026-06-03T08:09:46.804501+00:00"
+}
